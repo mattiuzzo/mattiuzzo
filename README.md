@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./Nova-Logo-Unica-Branca-(2).png" alt="Logo Unicati" width="200" />
+  <img src="./assets/Nova Logo Unica Branca.png" alt="Logo Unica" width="200" />
 </div>
 
 <div align="center">
@@ -110,21 +110,3 @@ Minha atuação passa por **TLPP**, **ADVPL**, **REST APIs**, **Angular**, **Nes
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mattiuzzo&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
-
----
-
-## Snake Contribution
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mattiuzzo/mattiuzzo/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
----
-
-## Contato
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/rafael-augusto-mattiuzzo-95982836/">LinkedIn</a> •
-  <a href="https://www.unicati.com.br">Unicati</a> •
-  <a href="mailto:rafael.mattiuzzo@unicati.com.br">rafael.mattiuzzo@unicati.com.br</a>
-</p>
