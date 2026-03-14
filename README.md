@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/Nova Logo Unica Branca.png" alt="Logo Unica" width="200" />
+  <img src="./assets/Nova Logo Unica Branca.png" alt="Logo Unica" width="400" />
 </div>
 
 <div align="center">
