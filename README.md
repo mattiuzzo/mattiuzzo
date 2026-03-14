@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=38BDF8&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+eu+sou+Mattiuzzo;Especialista+em+Ecossistema+Totvs+Protheus;Integra%C3%A7%C3%B5es+Modernas+%26+Solu%C3%A7%C3%B5es+Corporativas" alt="Typing SVG" />
 </div>
 
-<h1 align="center">Mattiuzzo</h1>
+<h1 align="center">Rafael Mattiuzzo</h1>
 
 <p align="center">
   <strong>Especialista em Ecossistema Totvs Protheus & Integrações Modernas</strong>
